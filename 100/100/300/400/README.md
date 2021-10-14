@@ -1,4 +1,4 @@
-400 - kube-scheduler
+# 400 - kube-scheduler
 
 The process that actually assigns workloads to specific nodes in the cluster is the scheduler. This service reads in a workload’s operating requirements, analyzes the current infrastructure environment, and places the work on an acceptable node or nodes.
 
