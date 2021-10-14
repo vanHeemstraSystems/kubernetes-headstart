@@ -1,5 +1,7 @@
 # 200 - Kubernetes Architecture
 
+<img width="584" alt="single_node_cluster" src="https://user-images.githubusercontent.com/12828104/137340478-5865fd6c-abca-4e91-a20b-ce7f9c5291b7.png">
+
 To understand how Kubernetes is able to provide these capabilities, it is helpful to get a sense of how it is designed and organized at a high level. Kubernetes can be visualized as a system built in layers, with each higher layer abstracting the complexity found in the lower levels.
 
 At its base, Kubernetes brings together individual physical or virtual machines into a cluster using a shared network to communicate between each server. This cluster is the physical platform where all Kubernetes components, capabilities, and workloads are configured.
