@@ -3,6 +3,8 @@ kubernetes-headstart
 
 Based on "" at https://www.digitalocean.com/community/curriculums/kubernetes-for-full-stack-developers
 
+Whether you’re just curious, getting started with Kubernetes, or have experience with it, this curriculum will help you learn more about Kubernetes and running containerized applications. You’ll learn about core Kubernetes concepts and use them to deploy and scale applications in practical tutorials. By the end of this curriculum you’ll be able to create your own Kubernetes cluster from scratch and run your own applications on it. You will also learn how to set up monitoring, alerting, and automation for your applications on Kubernetes.
+
 ## 100 - Introductory Topics
 
 See [README.md](./100/README.md)
